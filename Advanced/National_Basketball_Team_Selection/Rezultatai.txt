@@ -1,0 +1,60 @@
+Be pasalintu zaideju:
+-----------------------
+|Vardas        |Pavarde            |Naudingumas|  
+-----------------------
+|Mantas         |Kalnietis           |5.4            |
+|Adas           |Juskevicius         |10.1           |
+|Martynas       |Gecevicius          |9.6            |
+|Tomas          |Delininkaitis       |5.4            |
+|Jonas          |Maciulis            |11.4           |
+|Mindaugas      |Kuzminskas          |11.4           |
+|Donatas        |Motiejunas          |11.4           |
+|Paulius        |Jankunas            |8.9            |
+|Ksystofas      |Lavrinovicius       |6.9            |
+|Darjusas       |Lavrinovicius       |6.9            |
+|Jonas          |Valanciunas         |10             |
+|Robertas       |Javtokas            |5.4            |
+-----------------------
+Surikiuota:
+-----------------------
+|Vardas        |Pavarde            |Naudingumas|  
+-----------------------
+|Donatas        |Motiejunas          |11.4           |
+|Jonas          |Maciulis            |11.4           |
+|Mindaugas      |Kuzminskas          |11.4           |
+|Adas           |Juskevicius         |10.1           |
+|Jonas          |Valanciunas         |10             |
+|Martynas       |Gecevicius          |9.6            |
+|Paulius        |Jankunas            |8.9            |
+|Darjusas       |Lavrinovicius       |6.9            |
+|Ksystofas      |Lavrinovicius       |6.9            |
+|Mantas         |Kalnietis           |5.4            |
+|Robertas       |Javtokas            |5.4            |
+|Tomas          |Delininkaitis       |5.4            |
+-----------------------
+Su papildytais zaidejais
+-----------------------
+|Vardas        |Pavarde            |Naudingumas|  
+-----------------------
+|Donatas        |Motiejunas          |11.4           |
+|Jonas          |Maciulis            |11.4           |
+|Mindaugas      |Kuzminskas          |11.4           |
+|Adas           |Juskevicius         |10.1           |
+|Jonas          |Valanciunas         |10             |
+|Martynas       |Gecevicius          |9.6            |
+|Paulius        |Jankunas            |8.9            |
+|Gediminas      |Orelikas            |7.1            |
+|Darjusas       |Lavrinovicius       |6.9            |
+|Ksystofas      |Lavrinovicius       |6.9            |
+|Domantas       |Sabonis             |6.9            |
+|Mantas         |Kalnietis           |5.4            |
+|Robertas       |Javtokas            |5.4            |
+|Tomas          |Delininkaitis       |5.4            |
+-----------------------
+Nepateke
+-----------------------
+|Vardas        |Pavarde            |Naudingumas|  
+-----------------------
+|
+Arturas       |Milaknis            |6.9            |
+-----------------------

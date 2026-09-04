@@ -1,0 +1,32 @@
+Pradinis sarasas: 
+Aivaras
+Arnoldas
+Domas
+Gabrielius
+Jonas
+Kazimieras
+Linas
+Martynas
+Rokas
+Tomas
+Sarasas pasalinus atsisakiusius salyvauti: 
+Aivaras
+Arnoldas
+Gabrielius
+Kazimieras
+Linas
+Martynas
+Rokas
+Tomas
+Atnaujintas sarasas: 
+Aivaras
+Antanas
+Arnoldas
+Edvardas
+Gabrielius
+Kazimieras
+Laurynas
+Linas
+Martynas
+Rokas
+Tomas

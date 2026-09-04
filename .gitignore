@@ -1,0 +1,9 @@
+bin/
+obj/
+*.exe
+*.o
+*.obj
+*.layout
+*.depend
+*.cbp
+.vscode/

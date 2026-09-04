@@ -1,0 +1,13 @@
+Tomas           8
+Domas           9
+Rimas           8
+Simas           9
+Romas           9
+Rokas           8
+9
+Domas           9
+Simas           9
+Romas           9
+Tomas           8
+Rimas           8
+Rokas           8

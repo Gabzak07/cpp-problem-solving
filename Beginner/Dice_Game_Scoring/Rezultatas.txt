@@ -1,0 +1,5 @@
+1 Zaidejas surinko 16 tasku 
+2 Zaidejas surinko 7 tasku 
+3 Zaidejas surinko 14 tasku 
+4 Zaidejas surinko 2 tasku 
+1 16

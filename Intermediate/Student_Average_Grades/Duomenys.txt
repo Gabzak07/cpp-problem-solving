@@ -1,0 +1,4 @@
+3
+Ivan Ivanov         20 7.5 5.8 6.9
+Marija Petrova      22 10 8.2 8.7
+Aleksej Smirnov     21 8.8 8.5 10

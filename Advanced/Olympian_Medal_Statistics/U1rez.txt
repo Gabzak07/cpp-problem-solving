@@ -1,0 +1,39 @@
+1992 1 Auksas Romas Ubartas 
+1992 3 Bronza Lietuvos vyru krepsinio rinktine 
+1996 3 Bronza Lietuvos vyru krepsinio rinktine 
+2000 1 Auksas Daina Gudzineviciute 
+2000 1 Auksas Virgilijus Alekna 
+2000 3 Bronza Diana Ziliute 
+2000 3 Bronza Kristina Poplavskaja/Birute Sakickiene 
+2000 3 Bronza Lietuvos vyru krepsinio rinktine 
+2004 1 Auksas Virgilijus Alekna 
+2004 2 Sidabras Andrejus Zadneprovskis 
+2004 2 Sidabras Austra Skujyte 
+2008 2 Sidabras Edvinas Krungolcas 
+2008 2 Sidabras Gintare Volungeviciute 
+2008 2 Sidabras Mindaugas Mizgaitis 
+2008 3 Bronza Andrejus Zadneprovskis 
+2008 3 Bronza Virgilijus Alekna 
+2012 1 Auksas Laura Asadauskaite 
+2012 1 Auksas Ruta Meilutyte 
+2012 2 Sidabras Jevgenijus Suklinas 
+2012 3 Bronza Aleksandr Kazakevic 
+2012 3 Bronza Austra Skujyte 
+2012 3 Bronza Evaldas Petrauskas 
+2016 2 Sidabras Mindaugas Griskonis/Saulius Ritter 
+2016 3 Bronza Aurimas Didzbalis 
+2016 3 Bronza Aurimas Lankas/Edvinas Ramanauskas 
+2016 3 Bronza Donata Vistartaite/Milda Valciukaite 
+
+1992 2 (1, 0, 1)
+1996 1 (0, 0, 1)
+2000 5 (2, 0, 3)
+2004 3 (1, 2, 0)
+2008 5 (0, 3, 2)
+2012 6 (2, 1, 3)
+2016 4 (0, 1, 3)
+Vidutinis medaliu skaicius per olimpiada: 3.7
+
+Daugiausia medaliu laimejo
+Lietuvos vyru krepsinio rinktine 1992 1996 2000 
+Virgilijus Alekna 2000 2004 2008 

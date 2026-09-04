@@ -1,0 +1,15 @@
+3
+4
+Petraiciu Rainis    4 25
+Jonaiciu Juodis     3 59
+Bricius             4 15
+Masiliunu Mazius    6 20
+2
+Ilgaausis Bailys    6 45
+Staskunu Baltis     3 55
+5
+Kalniu Micius       3 58
+Sereiku Kicius      4 2
+Dambrausku Surkus   4 5
+Dubausku Micius     4 4
+Kikuciu Rainis      4 6

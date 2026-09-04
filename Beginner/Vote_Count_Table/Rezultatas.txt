@@ -1,0 +1,6 @@
+Kandidato nr.   Balsu kiekis
+1               3
+2               3
+3               3
+4               1
+5               1

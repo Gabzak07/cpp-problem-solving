@@ -1,0 +1,7 @@
+3
+Kristupas    75 % 85
+Asta         75 % 87
+Vytautas     50 % 51
+Monika       25 % 17
+Orijus       25 % 37
+Ema          25 % 63

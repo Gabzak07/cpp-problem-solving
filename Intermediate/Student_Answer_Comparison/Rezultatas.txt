@@ -1,0 +1,5 @@
+Juozapas  
+Simas      2
+Jonas      3
+Anupras    6
+Asta       6

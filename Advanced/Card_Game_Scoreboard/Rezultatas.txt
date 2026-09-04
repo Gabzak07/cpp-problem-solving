@@ -1,0 +1,16 @@
+Zaidejai ir ju surinkti taskai:
+1 6
+2 5
+3 6
+4 5
+Maziausiai tasku surinko:
+2 4 
+Daugiausiai tasku surinko:
+1 3 
+Po iterpimo:
+1 6
+2 5
+3 6
+1 6
+1 1
+4 4

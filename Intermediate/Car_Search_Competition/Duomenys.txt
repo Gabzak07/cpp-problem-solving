@@ -1,0 +1,9 @@
+8
+Audi 80 600
+BMW 330 3600
+Audi A4 2700
+Volskwagen Golf 1300
+Audi A6 5100
+BMW 320 6000
+BMW 530 2000
+Volvo V50 3000

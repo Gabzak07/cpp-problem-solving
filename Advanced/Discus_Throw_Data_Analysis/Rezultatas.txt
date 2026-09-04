@@ -1,0 +1,22 @@
+Disko metimo duomenu analizes rezultatai: 
+
+Olimpines zaidines: 
+Vidutiniskai diskas skriejo 68.2675 m.
+Skirtumas tarp didziausio ir maziausio rezultato 3.45 m.
+
+Geriausi rezultatai
+Vidutiniskai diskas skriejo 70.5563 m.
+Vidurkis 2.28875 m didesnis negu olimpinese zaidynese
+
+Seniausiai pasiektas geriausias rezultatas: 
+GUDZIUS 69.59 2018 Sweden
+
+Skirtumas tarp sportininku pasiekimu: 
+STONA -0.95
+DENNY 0.04
+PRUFER 1.68
+CEH 2.07
+GUDZIUS 3.04
+WEISSHAIDINGER 3.14
+ALEKNA 4.38
+STAHL 4.91

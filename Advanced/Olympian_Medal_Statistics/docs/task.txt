@@ -1,0 +1,93 @@
+Olimpiečiai
+Žinomas Lietuvos olimpiečių medalininkų sąrašas. Parenkite programą, kuri išanalizuotų Lietuvos sportininkų pasiekimus.
+
+Pradiniai duomenys
+
+Pradinių duomenų faile U1.csv pirmoje eilutėje įrašyta duomenų antraštė, kitose medalio spalva („1 Auksas“, „2 Sidabras“, „3 Bronza“), sportininko arba poros vardai pavardės, olimpiados metai (sveikasis skaičius), olimpiados miestas ir rungtis. Duomenys atskirti kableliu.
+
+Rezultatai
+
+Rezultatų faile U1rez.txt pateikite:  
+
+išrikiuotą sąrašą (metai, medalio spalva, vardas pavardė) pagal metus didėjančiai, jei metai vienodi tada pagal medalio spalvą (nuo „1 Auksas“ iki „3 Bronza“), o jei medalio spalva sutampa tada pagal vardą pavardę abėcėlės tvarka; 
+vieną tuščią eilutę; 
+metų ir medalių skaičiaus (kiek tais metais buvo medalių) sąrašą surikiuotą pagal metus mažėjančiai. Kiekvienoje eilutėje pateikite metus, medalių skaičių ir skliaustuose, kiek tais metais laimėjo aukso, kiek sidabro ir bronzos medalių, pvz. jei 1992 metais buvo laimėta 2 medaliai, vienas aukso, kitas bronzos, tai rezultatų eilutė turi atrodyti taip:
+1992 2 (1, 0, 1)
+sekančioje eilutėje pateikite pranešimą "Vidutinis medalių skaičius per olimpiadą:" ir dešimtųjų tikslumu atspausdinkite vidutinį medalių skaičių;
+vieną tuščią eilutę;
+atskiroje eilutėje pranešimą "Daugiausia medalių laimėjo"
+iš naujos eilutės pateikite sportininko, surinkusio daugiausiai medalių, vardą pavardę ar rinktinės pavadinimą ir metus (didėjančiai). Jei tokių atstovų yra keletas, kiekvieną jų abėcėlės tvarka pateikite iš naujos eilutės.  
+Nurodymai
+
+duomenims saugoti naudokite struktūrų masyvą;
+sukurkite duomenų nuskaitymo funkciją.
+Duomenų ir rezultatų pavyzdys
+
+U1.csv
+
+Medalis,Vardas Pavardė,Metai,Miestas,Rungtis
+3 Bronza,Aleksandr Kazakevič,2012,Londonas,Imtynės
+2 Sidabras,Andrejus Zadneprovskis,2004,Atėnai,Šiuolaikinė penkiakovė
+3 Bronza,Andrejus Zadneprovskis,2008,Pekinas,Šiuolaikinė penkiakovė
+3 Bronza,Aurimas Didžbalis,2016,Rio de Žaneiras,Sunkioji atletika
+3 Bronza,Aurimas Lankas/Edvinas Ramanauskas,2016,Rio de Žaneiras,Baidarių ir kanojų irklavimas
+2 Sidabras,Austra Skujytė,2004,Atėnai,Lengvoji atletika
+3 Bronza,Austra Skujytė,2012,Londonas,Lengvoji atletika
+1 Auksas,Daina Gudzinevičiūtė,2000,Sidnėjus,Šaudymas
+3 Bronza,Diana Žiliūtė,2000,Sidnėjus,Dviračių sportas
+3 Bronza,Donata Vištartaitė/Milda Valčiukaitė,2016,Rio de Žaneiras,Akademinis irklavimas
+2 Sidabras,Edvinas Krungolcas,2008,Pekinas,Šiuolaikinė penkiakovė
+3 Bronza,Evaldas Petrauskas,2012,Londonas,Boksas
+2 Sidabras,Gintarė Volungevičiūtė,2008,Pekinas ,Buriavimas
+2 Sidabras,Jevgenijus Šuklinas,2012,Londonas,Baidarių ir kanojų irklavimas
+3 Bronza,Kristina Poplavskaja/Birutė Šakickienė,2000,Sidnėjus,Irklavimas
+1 Auksas,Laura Asadauskaitė,2012,Londonas,Šiuolaikinė penkiakovė
+3 Bronza,Lietuvos vyrų krepšinio rinktinė,1992,Barselona,Krepšinis
+3 Bronza,Lietuvos vyrų krepšinio rinktinė,1996,Atlanta,Krepšinis
+3 Bronza,Lietuvos vyrų krepšinio rinktinė,2000,Sidnėjus,Krepšinis
+2 Sidabras,Mindaugas Griškonis/Saulius Ritter,2016,Rio de Žaneiras,Akademinis irklavimas
+2 Sidabras,Mindaugas Mizgaitis,2008,Pekinas,Imtynės
+1 Auksas,Romas Ubartas,1992,Barselona,Lengvoji atletika
+1 Auksas,Rūta Meilutytė,2012,Londonas,Plaukimas
+1 Auksas,Virgilijus Alekna,2000,Sidnėjus,Lengvoji atletika
+1 Auksas,Virgilijus Alekna,2004,Atėnai,Lengvoji atletika
+3 Bronza,Virgilijus Alekna,2008,Pekinas,Lengvoji atletika
+U1rez.txt
+
+1992 1 Auksas Romas Ubartas
+1992 3 Bronza Lietuvos vyrų krepšinio rinktinė
+1996 3 Bronza Lietuvos vyrų krepšinio rinktinė
+2000 1 Auksas Daina Gudzinevičiūtė
+2000 1 Auksas Virgilijus Alekna
+2000 3 Bronza Diana Žiliūtė
+2000 3 Bronza Kristina Poplavskaja/Birutė Šakickienė
+2000 3 Bronza Lietuvos vyrų krepšinio rinktinė
+2004 1 Auksas Virgilijus Alekna
+2004 2 Sidabras Andrejus Zadneprovskis
+2004 2 Sidabras Austra Skujytė
+2008 2 Sidabras Edvinas Krungolcas
+2008 2 Sidabras Gintarė Volungevičiūtė
+2008 2 Sidabras Mindaugas Mizgaitis
+2008 3 Bronza Andrejus Zadneprovskis
+2008 3 Bronza Virgilijus Alekna
+2012 1 Auksas Laura Asadauskaitė
+2012 1 Auksas Rūta Meilutytė
+2012 2 Sidabras Jevgenijus Šuklinas
+2012 3 Bronza Aleksandr Kazakevič
+2012 3 Bronza Austra Skujytė
+2012 3 Bronza Evaldas Petrauskas
+2016 2 Sidabras Mindaugas Griškonis/Saulius Ritter
+2016 3 Bronza Aurimas Didžbalis
+2016 3 Bronza Aurimas Lankas/Edvinas Ramanauskas
+2016 3 Bronza Donata Vištartaitė/Milda Valčiukaitė
+1992 2 (1, 0, 1)
+1996 1 (0, 0, 1)
+2000 5 (2, 0, 3)
+2004 3 (1, 2, 0)
+2008 5 (0, 3, 2)
+2012 6 (2, 1, 3)
+2016 4 (0, 1, 3)
+Vidutinis medalių skaičius per olimpiadą: 3.7
+Daugiausia medalių laimėjo
+Lietuvos vyrų krepšinio rinktinė 1992 1996 2000 
+Virgilijus Alekna 2000 2004 2008 

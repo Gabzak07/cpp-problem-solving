@@ -1,0 +1,10 @@
+Gautas sarasas:
+3 var. 4 75% 20
+1 var. 2 0% 14
+4 var. 1 100% 15
+2 var. 2 50% 20
+Surikiuotas sarasas:
+1 var. 2 0% 14
+2 var. 2 50% 20
+4 var. 1 100% 15
+3 var. 4 75% 20

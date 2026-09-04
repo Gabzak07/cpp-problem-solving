@@ -1,0 +1,7 @@
+Petrauskas 1
+Pavardenis 1
+Jonaitis 2
+Gudrauskas 3
+Keturake 4
+Daugiausia mokiniu turi: Jadvyga Keturake
+Geriausiai mokiniai mokosi pas: Informikas Jonaitis

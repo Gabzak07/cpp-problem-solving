@@ -1,0 +1,5 @@
+Vidurkiai pagal dalykus: 
+
+Matematika: 8.8;  Fizika: 7.5;  Programavimas: 8.5
+
+Geriausias studentas: Aleksej Smirnov     - vidurkis: 9.10

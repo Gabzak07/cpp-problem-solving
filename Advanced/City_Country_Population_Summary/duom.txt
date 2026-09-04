@@ -1,0 +1,6 @@
+5
+Trakai;Lietuva;72
+Vilnius;Lietuva;557
+Madridas;Ispanija;3234
+Londonas;Jungtine Karalyste;8174
+Saragosa;Ispanija;713
